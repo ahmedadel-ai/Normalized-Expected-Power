@@ -29,3 +29,4 @@ Response:
 - `daytime` = POA >= 50 W/m2. When false, `expected_power_norm` is 0 (the model was trained on daytime data only).
 - To get watts: `expected_power_norm * 1120` (AC rating of System 10).
 "# Normalized-Expected-Power" 
+"# Normalized-Expected-Power" 
