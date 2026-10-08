@@ -28,3 +28,4 @@ Response:
 - `poa_irradiance` in W/m2 (small negative night values are clipped to 0), temperatures in °C.
 - `daytime` = POA >= 50 W/m2. When false, `expected_power_norm` is 0 (the model was trained on daytime data only).
 - To get watts: `expected_power_norm * 1120` (AC rating of System 10).
+"# Normalized-Expected-Power" 
